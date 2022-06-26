@@ -101,7 +101,7 @@ sub_title_2.configure(bg='#57caff')
 # open button - attendance file
 open_button_2 = ttk.Button(
     root,
-    text='Select attendance csv',
+    text='Select SMS csv',
     command=select_file_2,
 )
 
